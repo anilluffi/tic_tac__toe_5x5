@@ -10,7 +10,7 @@
 
     <Window.Resources>
         <Style TargetType="Button" >
-            <Setter Property="Background" Value="PaleTurquoise"></Setter>
+            <Setter Property="Background" Value="#FFFB6704"></Setter>
             <Setter Property="Margin" Value="1 1 1 1"/>
         </Style>
         <Style TargetType="Label" >
